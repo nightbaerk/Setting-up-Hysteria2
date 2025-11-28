@@ -34,6 +34,12 @@ apt update && apt upgrade -y
 apt install certbot -y
 ```
 
+### ВАЖНО: Откройте порт 8443/udp
+```bash
+ufw allow 8443/udp
+```
+
+
 ---
 
 ## 3. Получение SSL сертификата
