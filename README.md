@@ -204,17 +204,17 @@ hysteria2://username:password@домен:8443/?insecure=0&sni=домен#Наз�
 
 **User1:**
 ```
-hysteria2://user1:StrongPass123@aezzaaezza.duckdns.org:8443/?insecure=0&sni=myserver.duckdns.org#User1-PC
+hysteria2://user1:StrongPass123@myserver.duckdns.org:8443/?insecure=0&sni=myserver.duckdns.org#User1-PC
 ```
 
 **User2:**
 ```
-hysteria2://user2:SecurePass456@aezzaaezza.duckdns.org:8443/?insecure=0&sni=myserver.duckdns.org#User2-Mobile
+hysteria2://user2:SecurePass456@myserver.duckdns.org:8443/?insecure=0&sni=myserver.duckdns.org#User2-Mobile
 ```
 
 **User3:**
 ```
-hysteria2://user3:MyPassword789@aezzaaezza.duckdns.org:8443/?insecure=0&sni=myserver.duckdns.org#User3-Laptop
+hysteria2://user3:MyPassword789@myserver.duckdns.org:8443/?insecure=0&sni=myserver.duckdns.org#User3-Laptop
 ```
 
 ---
