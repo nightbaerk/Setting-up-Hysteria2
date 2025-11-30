@@ -36,7 +36,7 @@ apt install certbot -y
 
 ### ВАЖНО: Откройте порт 8443/udp
 ```bash
-ufw allow 8443/udp
+ufw allow 443/udp
 ```
 
 
@@ -85,7 +85,7 @@ nano /etc/hysteria/config.yaml
 
 ### Замените содержимое на:
 ```yaml
-listen: :8443
+listen: :443
 protocol: udp
 
 tls:
