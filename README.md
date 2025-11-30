@@ -34,7 +34,7 @@ apt update && apt upgrade -y
 apt install certbot -y
 ```
 
-### ВАЖНО: Откройте порт 8443/udp
+### ВАЖНО: Откройте порт 443/udp
 ```bash
 ufw allow 443/udp
 ```
